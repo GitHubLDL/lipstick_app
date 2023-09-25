@@ -10,7 +10,9 @@
 3.  点击运行，选择相应的模拟器。
 
 ### 运行效果
-![运行效果](static/image/14d9d755a617b099b38dc128512b7ef9%5B00_00_08--00_00_28%5D.gif)
+![14d9d755a617b099b38dc128512b7ef9 00_00_08--00_00_28](https://github.com/GitHubLDL/lipstick_app/assets/39289135/c1277029-d0d3-43ee-b9c0-79de8b93be20)
 
-![首页](static/image/123.png)
-![识别结果](static/image/222.png)
+
+![123](https://github.com/GitHubLDL/lipstick_app/assets/39289135/6962cb0d-f58d-435f-bfa2-e9148442761e)
+
+![222](https://github.com/GitHubLDL/lipstick_app/assets/39289135/54cc2ee8-c6ce-4e2e-893f-f293d4372c96)
