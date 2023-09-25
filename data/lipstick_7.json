@@ -1,0 +1,325 @@
+{
+  "name": "香奈儿可可小姐",
+  "series": [
+    {
+      "name": "唇膏水亮",
+      "lipsticks": [
+        {
+          "id": "69",
+          "color": "#F17365",
+          "name": "传情"
+        },
+        {
+          "id": "46",
+          "color": "#E87268",
+          "name": "自由"
+        },
+        {
+          "id": "122",
+          "color": "#EA4D4A",
+          "name": "CORAIL RADIEUX"
+        },
+        {
+          "id": "97",
+          "color": "#D53D49",
+          "name": "洒脱"
+        },
+        {
+          "id": "44",
+          "color": "#FD4334",
+          "name": "水漾纱丽"
+        },
+        {
+          "id": "507",
+          "color": "#E94648",
+          "name": "倔强"
+        },
+        {
+          "id": "114",
+          "color": "#FF3220",
+          "name": "SHIPSHAPE"
+        },
+        {
+          "id": "91",
+          "color": "#C12A33",
+          "name": "波希米亚"
+        },
+        {
+          "id": "84",
+          "color": "#CE1220",
+          "name": "对白"
+        },
+        {
+          "id": "57",
+          "color": "#EB6F79",
+          "name": "冒险"
+        },
+        {
+          "id": "116",
+          "color": "#EC5193",
+          "name": "MIGHTY"
+        },
+        {
+          "id": "54",
+          "color": "#D1918D",
+          "name": "卡柏男孩"
+        },
+        {
+          "id": "79",
+          "color": "#E86A75",
+          "name": "传奇"
+        },
+        {
+          "id": "497",
+          "color": "#ED5A5E",
+          "name": "勇敢"
+        },
+        {
+          "id": "132",
+          "color": "#E93A5B",
+          "name": "ROSE RAVISSANT"
+        },
+        {
+          "id": "87",
+          "color": "#F8657F",
+          "name": "约会"
+        },
+        {
+          "id": "55",
+          "color": "#F14C77",
+          "name": "浪漫爱情"
+        },
+        {
+          "id": "118",
+          "color": "#EB2755",
+          "name": "ENERGY"
+        },
+        {
+          "id": "62",
+          "color": "#E12948",
+          "name": "蒙特卡罗"
+        },
+        {
+          "id": "134",
+          "color": "#E7394A",
+          "name": "RENOUVEAU"
+        },
+        {
+          "id": "98",
+          "color": "#CC4D68",
+          "name": "率真"
+        },
+        {
+          "id": "60",
+          "color": "#BB395F",
+          "name": "安蒂岗妮"
+        },
+        {
+          "id": "61",
+          "color": "#C54463",
+          "name": "幸福时光"
+        }
+      ]
+    },
+    {
+      "name": "炫亮魅力唇膏",
+      "lipsticks": [
+        {
+          "id": "90",
+          "color": "#FC6E48",
+          "name": "活泼"
+        },
+        {
+          "id": "96",
+          "color": "#FA421C",
+          "name": "古灵精怪"
+        },
+        {
+          "id": "182",
+          "color": "#E02E20",
+          "name": "VIBRANTE"
+        },
+        {
+          "id": "152",
+          "color": "#E82F2C",
+          "name": "隐约"
+        },
+        {
+          "id": "172",
+          "color": "#E40021",
+          "name": "ROUGE REBELLE"
+        },
+        {
+          "id": "135",
+          "color": "#99413D",
+          "name": "谜情"
+        },
+        {
+          "id": "99",
+          "color": "#8A010D",
+          "name": "海盗"
+        },
+        {
+          "id": "176",
+          "color": "#A80D1F",
+          "name": "INDÉPENDANTE"
+        },
+        {
+          "id": "169",
+          "color": "#8E2622",
+          "name": "ROUGE TENTATION"
+        },
+        {
+          "id": "91",
+          "color": "#E45661",
+          "name": "吸引力"
+        },
+        {
+          "id": "179",
+          "color": "#ED6160",
+          "name": "LUMINOUS"
+        },
+        {
+          "id": "94",
+          "color": "#FC3E6E",
+          "name": "着迷"
+        },
+        {
+          "id": "138",
+          "color": "#D93E5E",
+          "name": "激昂"
+        },
+        {
+          "id": "136",
+          "color": "#EF4246",
+          "name": "悠扬"
+        },
+        {
+          "id": "178",
+          "color": "#BF5363",
+          "name": "NEW PRODIGIOUS"
+        },
+        {
+          "id": "158",
+          "color": "#B24957",
+          "name": "VIREVOLTANTE"
+        },
+        {
+          "id": "93",
+          "color": "#CD0043",
+          "name": "兴奋"
+        },
+        {
+          "id": "165",
+          "color": "#C82C40",
+          "name": "ÉBLOUISSANTE"
+        },
+        {
+          "id": "184",
+          "color": "#C80F2E",
+          "name": "INCANTEVOLE"
+        },
+        {
+          "id": "102",
+          "color": "#B20032",
+          "name": "悸动"
+        }
+      ]
+    },
+    {
+      "name": "炫亮魅力唇膏",
+      "lipsticks": [
+        {
+          "id": "90",
+          "color": "#E1527E",
+          "name": "IMAGINATION"
+        }
+      ]
+    },
+    {
+      "name": "炫亮魅力唇膏丝绒",
+      "lipsticks": [
+        {
+          "id": "65",
+          "color": "#E17062",
+          "name": "L'ARISTOCRATICA"
+        },
+        {
+          "id": "64",
+          "color": "#E84632",
+          "name": "FIRST LIGHT"
+        },
+        {
+          "id": "57",
+          "color": "#BE2B24",
+          "name": "ROUGE FEU"
+        },
+        {
+          "id": "66",
+          "color": "#E1112A",
+          "name": "L'INDOMABILE"
+        },
+        {
+          "id": "51",
+          "color": "#9E333D",
+          "name": "震撼"
+        },
+        {
+          "id": "56",
+          "color": "#B23030",
+          "name": "ROUGE CHARNEL"
+        },
+        {
+          "id": "38",
+          "color": "#892833",
+          "name": "迷惑"
+        },
+        {
+          "id": "58",
+          "color": "#822E2E",
+          "name": "ROUGE VIE"
+        },
+        {
+          "id": "63",
+          "color": "#802932",
+          "name": "NIGHTFALL"
+        },
+        {
+          "id": "61",
+          "color": "#EC7879",
+          "name": "LA SECRÈTE"
+        },
+        {
+          "id": "42",
+          "color": "#FE697F",
+          "name": "显眼"
+        },
+        {
+          "id": "43",
+          "color": "#FA5059",
+          "name": "亲爱"
+        },
+        {
+          "id": "46",
+          "color": "#C92D38",
+          "name": "慧黠"
+        },
+        {
+          "id": "37",
+          "color": "#C43759",
+          "name": "纵情"
+        },
+        {
+          "id": "44",
+          "color": "#F06FA5",
+          "name": "歌剧名伶"
+        },
+        {
+          "id": "50",
+          "color": "#9F2F56",
+          "name": "浪漫幻想"
+        }
+      ]
+    }
+  ]
+}

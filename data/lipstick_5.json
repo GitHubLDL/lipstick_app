@@ -1,0 +1,40 @@
+{
+  "name": "美宝莲",
+  "series": [
+    {
+      "name": "绝色持久唇膏绒情哑光",
+      "lipsticks": [
+        {
+          "id": "MAT5",
+          "color": "#99163A",
+          "name": ""
+        },
+        {
+          "id": "R45M",
+          "color": "#A22040",
+          "name": ""
+        },
+        {
+          "id": "R41M",
+          "color": "#C31431",
+          "name": "COLOR SENSATIONAL VIVID MATTE"
+        },
+        {
+          "id": "MAT1",
+          "color": "#EC5C80",
+          "name": ""
+        },
+        {
+          "id": "MAT3",
+          "color": "#EC594F",
+          "name": ""
+        },
+        {
+          "id": "MAT5",
+          "color": "#F193AD",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
